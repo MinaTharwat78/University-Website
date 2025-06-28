@@ -291,6 +291,22 @@ padding-top: 50px;
     cursor: pointer;
     padding: 18px 0;
 }
+
+/* Social media icon links styling */
+.icons a {
+    text-decoration: none;
+    color: #f44336;
+    margin: 0 13px;
+    cursor: pointer;
+    padding: 18px 0;
+    transition: 0.3s;
+}
+
+.icons a:hover {
+    color: #d32f2f;
+    transform: scale(1.1);
+}
+
 /* -------- about us page --------- */
 .sub-header {
     height: 50vh;
