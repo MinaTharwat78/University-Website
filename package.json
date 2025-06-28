@@ -1,0 +1,41 @@
+{
+  "name": "university-website",
+  "version": "1.0.0",
+  "description": "A modern, responsive university website built with HTML, CSS, and JavaScript",
+  "main": "index.html",
+  "scripts": {
+    "start": "python -m http.server 8000 || python3 -m http.server 8000 || npx serve .",
+    "test": "echo \"No tests specified\" && exit 0",
+    "lint": "echo \"No linter configured\" && exit 0"
+  },
+  "keywords": [
+    "university",
+    "education",
+    "website",
+    "responsive",
+    "html",
+    "css",
+    "javascript",
+    "frontend"
+  ],
+  "author": "Mina Tharwat",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourusername/university-website.git"
+  },
+  "bugs": {
+    "url": "https://github.com/yourusername/university-website/issues"
+  },
+  "homepage": "https://yourusername.github.io/university-website",
+  "devDependencies": {},
+  "dependencies": {},
+  "engines": {
+    "node": ">=14.0.0"
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions",
+    "not dead"
+  ]
+} 
