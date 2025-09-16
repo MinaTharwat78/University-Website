@@ -136,7 +136,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 👨‍💻 Author
 
 **Mina Tharwat**
-- GitHub: @(https://github.com/yourusername)
+- GitHub: @(https://github.com/MinaTharwat78)
 
 ## 🙏 Acknowledgments
 
